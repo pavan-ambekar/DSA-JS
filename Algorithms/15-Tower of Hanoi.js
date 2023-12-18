@@ -1,4 +1,4 @@
-// Big O = O(2^n)
+// Big O = 2^n
 function towerOfHanoi(n, fromRod, toRod, usingRod) {
     if (n == 1)
         return console.log(`Move disk 1 from ${fromRod} to ${toRod}`);
