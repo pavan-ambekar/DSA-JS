@@ -1,0 +1,20 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Data structure and Algorithms in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan A",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavan-ambekar/DSA-JS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pavan-ambekar/DSA-JS/issues"
+  },
+  "homepage": "https://github.com/pavan-ambekar/DSA-JS#readme"
+}
