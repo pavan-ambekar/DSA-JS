@@ -7,10 +7,6 @@ solution.
     - <b>Example:</b> Dijkstra's
 algorithm, Prim's algorithm and Kruskal's algorithm
 
-- <b>Greedy:</b> Choose the best option at the current time, without any consideration for the future
-    - <b>Example:</b> Dijkstra's
-algorithm, Prim's algorithm and Kruskal's algorithm
-
 - <b>Divide and Conquer:</b> Divide the problem into smaller sub-problems. Each sub-problem is then solved and
 the partial solutions are recombined to determine the overall solution
     - <b>Example:</b> Binary Search, Quick Sort, Merge
